@@ -1,0 +1,12 @@
+# Ignorer les environnements virtuels
+mon_env/
+venv/
+env/
+__pycache__/
+
+# Ignorer les fichiers spécifiques à macOS
+.DS_Store
+
+# Ignorer les modèles pré-entraînés lourds (optionnel, selon si vous utilisez Git LFS)
+*.pt
+*.task

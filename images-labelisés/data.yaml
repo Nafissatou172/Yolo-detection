@@ -1,0 +1,5 @@
+names:
+  0: chat
+  1: chien
+path: .
+train: train.txt

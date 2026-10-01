@@ -1,0 +1,7 @@
+python -m venv mon_env
+source mon_env/bin/activate
+pip install opencv-python
+pip install mediapipe
+pip install ultralytics
+
+Lien vers le site de labélisation : https://app.cvat.ai/tasks?page=1&pageSize=10 
